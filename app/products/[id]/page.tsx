@@ -1,5 +1,5 @@
-import BackLink from '@/app/_components/BackLink';
-import ProductDetail from '@/app/_components/ProductDetail';
+import BackLink from '@/app/_components/layout/BackLink';
+import ProductDetail from '@/app/_components/product/ProductDetail';
 import { getProductById } from '@/lib/products';
 import { notFound } from 'next/navigation';
 

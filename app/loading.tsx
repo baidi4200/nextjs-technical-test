@@ -1,5 +1,5 @@
-import PageHeader from './_components/PageHeader';
-import ProductGridSkeleton from './_components/ProductGridSkeleton';
+import PageHeader from './_components/layout/PageHeader';
+import ProductGridSkeleton from './_components/product/ProductGridSkeleton';
 
 export default function Loading() {
   return (
