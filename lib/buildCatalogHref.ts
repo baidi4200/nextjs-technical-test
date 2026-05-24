@@ -1,5 +1,5 @@
 import { DEFAULT_PAGE_SIZE } from './pagination';
-
+export const CATALOG_PATH = '/products';
 export type CatalogSearchParams = Record<string, string | undefined>;
 
 export function buildCatalogHref(

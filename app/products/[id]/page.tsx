@@ -11,7 +11,7 @@ export default async function ProductPage(props: PageProps<'/products/[id]'>) {
 
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-10 sm:px-6 sm:py-16">
-      <BackLink href="/" label="Back to catalog" />
+      <BackLink href="/products" label="Back to catalog" />
       <ProductDetail product={product} />
     </div>
   );
