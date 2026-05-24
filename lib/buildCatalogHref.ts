@@ -21,5 +21,5 @@ export function buildCatalogHref(
   }
 
   const qs = params.toString();
-  return qs ? `/?${qs}` : '/';
+  return qs ? `${CATALOG_PATH}?${qs}` : CATALOG_PATH;
 }
