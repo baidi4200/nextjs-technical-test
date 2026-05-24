@@ -4,10 +4,15 @@ export type SortKey = 'price_asc' | 'price_desc' | 'rating_desc';
 
 export const DEFAULT_SORT: SortKey = 'rating_desc';
 
-const SORT_KEYS: readonly SortKey[] = ['price_asc', 'price_desc', 'rating_desc'];
-
+const SORT_KEYS: readonly SortKey[] = [
+  'price_asc',
+  'price_desc',
+  'rating_desc',
+];
 export function parseSort(value: string | undefined): SortKey {
-  return SORT_KEYS.includes(value as SortKey) ? (value as SortKey) : DEFAULT_SORT;
+  return SORT_KEYS.includes(value as SortKey)
+    ? (value as SortKey)
+    : DEFAULT_SORT;
 }
 
 export function sortProducts(products: Product[], sort: SortKey): Product[] {
