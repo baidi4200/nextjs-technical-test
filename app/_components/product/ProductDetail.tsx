@@ -1,7 +1,8 @@
-import type { Product } from '@/lib/products';
-import { CATALOG_PATH } from '@/lib/buildCatalogHref';
-import ProductImage from './ProductImage';
-import TagBadge from './TagBadge';
+import type { Product } from "@/lib/products";
+import { CATALOG_PATH } from "@/lib/buildCatalogHref";
+import AddToBasketButton from "@/app/_components/basket/AddToBasketButton";
+import ProductImage from "./ProductImage";
+import TagBadge from "./TagBadge";
 
 type Props = {
   product: Product;
@@ -31,9 +32,16 @@ export default function ProductDetail({ product }: Props) {
         </p>
 
         <div className="mt-6 flex flex-wrap gap-1.5">
-          {product.tags.map(t => (
-            <TagBadge key={t} tag={t} href={`${CATALOG_PATH}?tag=${encodeURIComponent(t)}`} />
+          {product.tags.map((t) => (
+            <TagBadge
+              key={t}
+              tag={t}
+              href={`${CATALOG_PATH}?tag=${encodeURIComponent(t)}`}
+            />
           ))}
+        </div>
+        <div className="mt-6">
+          <AddToBasketButton product={product} />
         </div>
       </div>
     </article>
