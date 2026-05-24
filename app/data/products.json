@@ -1,0 +1,201 @@
+[
+  {
+    "id": "p001",
+    "name": "Aurora Wireless Headphones",
+    "brand": "Sonance",
+    "price": 199.99,
+    "description": "Over-ear noise-cancelling headphones with 40-hour battery life and adaptive EQ.",
+    "tags": ["audio", "wireless", "noise-cancelling", "headphones"],
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600"
+  },
+  {
+    "id": "p002",
+    "name": "Trailblazer 30L Backpack",
+    "brand": "Northpeak",
+    "price": 89.5,
+    "description": "Weatherproof hiking backpack with ergonomic suspension and hydration sleeve.",
+    "tags": ["outdoor", "hiking", "backpack", "travel"],
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600"
+  },
+  {
+    "id": "p003",
+    "name": "Pulse Smart Fitness Watch",
+    "brand": "Kinetix",
+    "price": 149.0,
+    "description": "GPS-enabled fitness tracker with heart rate, SpO2, and sleep analytics.",
+    "tags": ["fitness", "wearable", "smartwatch", "health"],
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600"
+  },
+  {
+    "id": "p004",
+    "name": "Cloudrest Memory Foam Pillow",
+    "brand": "Dreambloom",
+    "price": 59.0,
+    "description": "Cooling gel-infused memory foam pillow with adjustable loft.",
+    "tags": ["home", "bedroom", "sleep", "pillow"],
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=600"
+  },
+  {
+    "id": "p005",
+    "name": "Espresso Edge Coffee Maker",
+    "brand": "Brewlogic",
+    "price": 329.99,
+    "description": "Semi-automatic espresso machine with built-in conical burr grinder.",
+    "tags": ["kitchen", "coffee", "appliance", "espresso"],
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1572119865084-43c285814d63?w=600"
+  },
+  {
+    "id": "p006",
+    "name": "Nimbus Mechanical Keyboard",
+    "brand": "Keycraft",
+    "price": 129.0,
+    "description": "75% hot-swappable mechanical keyboard with RGB backlight and PBT keycaps.",
+    "tags": ["electronics", "keyboard", "gaming", "computer"],
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600"
+  },
+  {
+    "id": "p007",
+    "name": "Lumen Desk Lamp",
+    "brand": "Glowform",
+    "price": 74.95,
+    "description": "Dimmable LED desk lamp with wireless charging base and color temperature control.",
+    "tags": ["home", "lighting", "desk", "office"],
+    "rating": 4.2,
+    "imageUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600"
+  },
+  {
+    "id": "p008",
+    "name": "Terra Cast Iron Skillet 12\"",
+    "brand": "Hearthlane",
+    "price": 49.0,
+    "description": "Pre-seasoned cast iron skillet ideal for stovetop, oven, and campfire use.",
+    "tags": ["kitchen", "cookware", "cast-iron"],
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=600"
+  },
+  {
+    "id": "p009",
+    "name": "Drift Hybrid Running Shoes",
+    "brand": "Stride&Co",
+    "price": 119.0,
+    "description": "Lightweight road-to-trail running shoes with responsive foam cushioning.",
+    "tags": ["footwear", "running", "sports", "shoes"],
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600"
+  },
+  {
+    "id": "p010",
+    "name": "Verge 4K Action Camera",
+    "brand": "Vantix",
+    "price": 279.0,
+    "description": "Compact 4K60 action camera with HyperSteady stabilization and waterproof body.",
+    "tags": ["electronics", "camera", "video", "outdoor"],
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600"
+  },
+  {
+    "id": "p011",
+    "name": "Bloom Ceramic Planter Set",
+    "brand": "Verdantly",
+    "price": 34.0,
+    "description": "Set of three matte ceramic planters with bamboo drainage trays.",
+    "tags": ["home", "garden", "decor", "plants"],
+    "rating": 4.1,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=600"
+  },
+  {
+    "id": "p012",
+    "name": "Echo Bluetooth Speaker",
+    "brand": "Sonance",
+    "price": 89.0,
+    "description": "Portable 360-degree Bluetooth speaker with IP67 waterproof rating.",
+    "tags": ["audio", "speaker", "bluetooth", "portable"],
+    "rating": 4.2,
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600"
+  },
+  {
+    "id": "p013",
+    "name": "Slate Ergonomic Office Chair",
+    "brand": "Posturely",
+    "price": 419.0,
+    "description": "Adjustable mesh-back office chair with lumbar support and 4D armrests.",
+    "tags": ["furniture", "office", "chair", "ergonomic"],
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=600"
+  },
+  {
+    "id": "p014",
+    "name": "Glacier Insulated Water Bottle 32oz",
+    "brand": "Northpeak",
+    "price": 32.0,
+    "description": "Double-wall vacuum-insulated stainless steel bottle keeps drinks cold 24h.",
+    "tags": ["outdoor", "hydration", "bottle", "travel"],
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600"
+  },
+  {
+    "id": "p015",
+    "name": "Atlas Leather Weekender Bag",
+    "brand": "Maridian",
+    "price": 245.0,
+    "description": "Full-grain leather duffel with brass hardware and detachable shoulder strap.",
+    "tags": ["travel", "bag", "leather", "fashion"],
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=600"
+  },
+  {
+    "id": "p016",
+    "name": "Pixel Pro Drawing Tablet",
+    "brand": "Inkwell",
+    "price": 199.0,
+    "description": "10-inch graphics tablet with 8192 pressure levels and battery-free stylus.",
+    "tags": ["electronics", "art", "tablet", "creative"],
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1561883088-039e53143d73?w=600"
+  },
+  {
+    "id": "p017",
+    "name": "Harvest Bamboo Cutting Board",
+    "brand": "Hearthlane",
+    "price": 28.5,
+    "description": "Reversible bamboo cutting board with juice groove and side handles.",
+    "tags": ["kitchen", "bamboo", "eco", "cutting-board"],
+    "rating": 4.3
+  },
+  {
+    "id": "p018",
+    "name": "Halo Skincare Serum",
+    "brand": "Lumelle",
+    "price": 42.0,
+    "description": "Vitamin C and hyaluronic acid brightening serum for all skin types.",
+    "tags": ["beauty", "skincare", "serum", "wellness"],
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600"
+  },
+  {
+    "id": "p019",
+    "name": "Quantum Wireless Mouse",
+    "brand": "Keycraft",
+    "price": 59.0,
+    "description": "Low-latency wireless mouse with 26K DPI sensor and 70-hour battery.",
+    "tags": ["electronics", "mouse", "gaming", "computer"],
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600"
+  },
+  {
+    "id": "p020",
+    "name": "Ember Wool Throw Blanket",
+    "brand": "Dreambloom",
+    "price": 78.0,
+    "description": "Soft merino wool throw, hand-loomed with fringed edges.",
+    "tags": ["home", "blanket", "wool", "decor"],
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1580301762395-83a8db8d4fab?w=600"
+  }
+]
